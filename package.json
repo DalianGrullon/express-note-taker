@@ -1,12 +1,12 @@
 {
-  "name": "note-taker",
+  "name": "note-taker-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "This full-stack web application provides a fun way for users to publicly take notes",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Dalian Grullon",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
