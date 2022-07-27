@@ -6,6 +6,10 @@
 
 <br>
 
+[Deployed Application](https://note-taker-app-daliangrullon.herokuapp.com/)
+
+<br>
+
 ## Description
 
 I created this full-stack application to provide a fun way to take notes. Based on its current version, it does not include a way for users to store their own personal notes, so all the notes taken will be public and everyone who visits the site will be able to see and delete all notes present.
