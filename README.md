@@ -1,4 +1,4 @@
-# Note Taker App
+# Express Note-taker
 ![](https://img.shields.io/github/followers/daliangrullon?style=social)
 ![](https://img.shields.io/github/last-commit/daliangrullon/note-taker-app?style=flat-square)
 ![](https://img.shields.io/github/languages/top/DalianGrullon/note-taker-app?style=flat-square)
@@ -12,7 +12,7 @@
 
 ## Description
 
-I created this full-stack application to provide a fun way to take notes. Based on its current version, it does not include a way for users to store their own personal notes, so all the notes taken will be public and everyone who visits the site will be able to see and delete all notes present.
+I created this full-stack application to provide a fun way to take notes. Based on its current version, it does not include a way for users to store their own personal notes, so all the notes taken will be public and everyone who visits the site will be able to see and delete all notes present. I do plan on adding a login feature allowing users to save their own personal notes in the near future.
 
 In creating this project, I learned a lot about modularizing server-side code via `routes` and `helpers`, which are both directories I created in this repository that contain script files to aid in routing and providing helper functions respectively. I also learned how to `read`, `write`, and `append` dynamically derrived data from the front-end to the file located in the `db` directory (which emulates a database) by using node's `fs` core module.
 
@@ -74,7 +74,7 @@ Listed below is all of the technology I used for this project:
 ## Credits 
 `Copyright © 2U Education`
 
-The contents found within the public folder were provided by my Coding Bootcamp. I created all server-side logic and functionality.
+The contents found within the public folder (aka the front-end) were provided by my Coding Bootcamp. I created all server-side logic and functionality.
 
 <br>
 
