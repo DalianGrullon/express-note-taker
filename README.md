@@ -6,7 +6,7 @@
 
 <br>
 
-[Deployed Application](https://note-taker-app-daliangrullon.herokuapp.com/)
+[Deployed Application](https://express-note-taker-dg.herokuapp.com/)
 
 <br>
 
